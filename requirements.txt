@@ -1,0 +1,5 @@
+kaggle
+scikit-learn
+python-dotenv
+ipykernel
+pandas
