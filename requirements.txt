@@ -6,3 +6,4 @@ pandas
 imblearn
 xgboost
 lightgbm
+hdbscan
