@@ -4,3 +4,5 @@ python-dotenv
 ipykernel
 pandas
 imblearn
+xgboost
+lightgbm
